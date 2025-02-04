@@ -34,6 +34,7 @@ module.exports = {
           '@_types': './src/types',
           '@_utils': './src/utils',
           '@_zustand': './src/zustand',
+          '@_store': './src/store',
         },
       },
     ],

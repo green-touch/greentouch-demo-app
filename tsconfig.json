@@ -12,7 +12,9 @@
       "@_styles/*": ["./src/styles/*"],
       "@_types/*": ["./src/types/*"],
       "@_utils/*": ["./src/utils/*"],
-      "@_zustand/*": ["./src/zustand/*"]
+      "@_zustand/*": ["./src/zustand/*"],
+      "@_store/*": ["./src/store/*"]
+     
     }
   },
   "extends": "@tsconfig/react-native/tsconfig.json"

@@ -36,7 +36,7 @@ function MyInfoScreen({ navigation }: MyInfoScreenProps): React.JSX.Element {
     },
     {
       name: '선우용여',
-      relationship: '우주대마왕의 비서실장 고문',
+      relationship: '우주킹킹킹킹킹킹킹킹',
       phoneNumber: '010-1234-5678',
     },
   ]);
